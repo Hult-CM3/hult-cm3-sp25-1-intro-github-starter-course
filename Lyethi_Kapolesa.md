@@ -1,0 +1,5 @@
+I've always thought coding and all things computer science related were interesting. People around me have always been interested in it or were involved with it, but it never really appealed to me, if anything I think it intimidated me. I’ve always said that it's not my cup of tea, and I’ve always tended to avoid it.  
+
+After experiencing this new world for  the past 2 days, I've definitely developed a new respect for people in this field. Trying to figure out what to do, where to start, and what went wrong  was definitely a workout for my critical thinking, and it forced me to really think.  
+
+Using Scratch was a great intro to problem-solving, but without the stressful and intense feeling of actually coding. Git Hub was for sure a lot more intimidating, but also very insightful. I learned about terms such as repositories, pull requests, loops, and forks. I also learned about Git Hub as a whole, and how it can be and is used in the real world. I learned about how it is used to track and manage changes that have been made to code, and how it is a collaborative tool. 
